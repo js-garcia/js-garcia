@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Soledad</h1>
 <p align="center">
-  <img src="TU_LINK_A_LA_IMAGEN" width="200" alt="Avatar estilo Ghibli"/>
+  <img src="https://raw.githubusercontent.com/js-garcia/js-garcia/refs/heads/main/gh_avatar_resized.jpg" width="200" alt="Avatar estilo Ghibli"/>
 </p>
 
 ### Sobre mí
