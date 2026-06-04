@@ -17,16 +17,20 @@ Actualmente estoy enfocada en aprender y aplicar herramientas de análisis de da
 
 ---
 
-## Herramientas y tecnologías
+## Herramientas principales
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-en%20formación-4479A1?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## También practiqué
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-práctica-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-práctica-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)**
+
 
 ---
 
