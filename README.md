@@ -24,7 +24,7 @@ Actualmente estoy enfocada en aprender y aplicar herramientas de análisis de da
 ![SQL](https://img.shields.io/badge/SQL-en%20formación-4479A1?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## También practiqué
+## Herramientas complementarias
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-práctica-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
